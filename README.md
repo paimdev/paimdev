@@ -19,7 +19,6 @@ Hi there, I'm **Lucas Paim**, a **Web Development Student** 🚀 from Brazil, cu
 - 💼 I’m going through [The Odin Project](https://www.theodinproject.com/) coding bootcamp;
 - 💬 You can ask me about anything, I'll be happy to help;
 - 📫 Please email via bathkelucas@protonmail.com to reach me or try contacting me via [LinkedIn](https://www.linkedin.com/in/paim/).
-- 📝 Check my [Curriculum Vitae]() to get more info.
 
 
 **Languages | Frameworks and Tools:**  
