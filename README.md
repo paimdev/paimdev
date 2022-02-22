@@ -13,7 +13,6 @@ Hi there, I'm **Lucas Paim**, a **Web Developer** 🚀 from Brazil, currently, I
 
 **Get to know me better:**
 
-- 👨🏽‍💻 I’m currently a Web Development Student;
 - 🤔 My interests are tech in general, music, photography and writing;
 - 💼 I’m going through [The Odin Project](https://www.theodinproject.com/) coding bootcamp;
 - 💬 You can ask me about anything, I'll be happy to help;
