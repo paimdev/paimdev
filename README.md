@@ -7,14 +7,13 @@
 <br />
 <br />
 
-Hi there, I'm **Lucas Paim**, a **Web Development Student** 🚀 from Brazil, currently, I'm a Freelancer and [Blog](https://dev.to/paim) Writer.
+Hi there, I'm **Lucas Paim**, a **Web Developer** 🚀 from Brazil, currently, I'm a Freelancer and [Blog](https://dev.to/paim) Writer.
 
   <img align="right" alt="GIF"  width="400px" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e475z4mqpus8ao374h59z0syjecq8fefejlp32kgos9&rid=giphy.gif&ct=g" />
 
 **Get to know me better:**
 
 - 👨🏽‍💻 I’m currently a Web Development Student;
-- 🌱 I’m currently learning Front-End Fundamentals; 
 - 🤔 My interests are tech in general, music, photography and writing;
 - 💼 I’m going through [The Odin Project](https://www.theodinproject.com/) coding bootcamp;
 - 💬 You can ask me about anything, I'll be happy to help;
