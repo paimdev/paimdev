@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi there, I'm **Lucas Paim**, a **Web Developer** 🚀 from Brazil, currently, I'm a Freelancer and [Blog](https://dev.to/paim) Writer.
+Hi there, I'm **Lucas Paim**, a **Web Developer** 🚀 from Brazil, currently, I'm working at a startup called omnify[omnify.cx], and doing freelance webdev work.
 
   <img align="right" alt="GIF"  width="400px" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e475z4mqpus8ao374h59z0syjecq8fefejlp32kgos9&rid=giphy.gif&ct=g" />
 
